@@ -3,24 +3,24 @@ const chalk = require('chalk');
 require('dotenv').config();
 
 //contact details
-global.ownernumber = [ process.env.OWNER_NUMBER || "919931122319"],
-global.ownername = process.env.OWNER_NAME || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",
-global.ytname = "YT: AyushBotz.inc"
-global.socialm = "GitHub: Ayushpandey023"
+global.ownernumber = [ process.env.OWNER_NUMBER || "918653805156"],
+global.ownername = process.env.OWNER_NAME || "✪⏤͟͞★⃝ꪶ‎𝐀ᴅɪᴛʏᴀ-𝐗ᴅ-𖥘✪͜͡➺",
+global.ytname = "https://www.youtube.com/@I_aam_adi01"
+global.socialm = "GitHub: dibtenduaditya"
 global.location = "Indian"
 
-global.botname = process.env.BOTNAME || "𝐌𝐀𝐑𝐈𝐀-𝐌𝐃",//name of the bot
+global.botname = process.env.BOTNAME || "𝐈ᴢᴜᴋᴏ 𝐁ᴏᴛ 𝐌ᴅ",//name of the bot
 
 //sticker details
-global.stickername = process.env.STICKER || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",
+global.stickername = process.env.STICKER || "[ !! < 𝐀ᴅɪᴛʏᴀ-𝐗ᴅ > !! ]",
 global.packname = 'Sticker By'
-global.author = process.env.AUTHOR || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",
+global.author = process.env.AUTHOR || "[ !! < 𝐌ʀ.x-𝐀ᴅɪᴛʏᴀ > !! ]",
 //console view/theme
 global.themeemoji = '🧩'
-global.wm = "Ayush botz inc."
+global.wm = "Aditya botz inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaImo5ZG3R3qjKOdyr1I'
+global.link = 'https://whatsapp.com/channel/0029VaWgCOH1iUxUofORBN3K'
 
 //custom prefix
 global.prefa = process.env.PREFIX || ".",
