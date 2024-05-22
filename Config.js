@@ -60,7 +60,7 @@ ANTI_BOT:"true",
 }
 
 
-global.thumb = fs.readFileSync('./Gallery/thumb.jpg')
+global.thumb = fs.readFileSync('./Gallery/aditya.jpg')
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
